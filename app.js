@@ -76,7 +76,7 @@ const data = [
   }
 ]
 
-let port = proccess.env.PORT || 3000
+let port = process.env.PORT || 3000
 
 function findById(data, id) {
   for (var i = 0; i < data.length; i++) {
