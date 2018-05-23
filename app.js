@@ -4,75 +4,75 @@ var cors = require('cors')
 const data = [
   {
     id: 1,
-    full_name: 'Kyle Coberly',
+    fullName: 'Kyle Coberly',
     title: 'Faculty Director',
-    number_of_dogs: 0
+    numberOfDogs: 0
   },
   {
     id: 2,
-    full_name: 'Danny Fritz',
+    fullName: 'Danny Fritz',
     title: 'Lead Instructor',
-    number_of_dogs: 0
+    numberOfDogs: 0
   },
   {
     id: 3,
-    full_name: 'CJ Reynolds',
+    fullName: 'CJ Reynolds',
     title: 'Lead Instructor',
-    number_of_dogs: 0
+    numberOfDogs: 0
   },
   {
     id: 4,
-    full_name: 'Brooks Patton',
+    fullName: 'Brooks Patton',
     title: 'Lead Instructor',
-    number_of_dogs: 0
+    numberOfDogs: 0
   },
   {
     id: 5,
-    full_name: 'Roberto Ortega',
+    fullName: 'Roberto Ortega',
     title: 'Lead Instructor',
-    number_of_dogs: 0
+    numberOfDogs: 0
   },
   {
     id: 6,
-    full_name: 'Chad Drummond',
+    fullName: 'Chad Drummond',
     title: 'Instructor',
-    number_of_dogs: 0
+    numberOfDogs: 0
   },
   {
     id: 7,
-    full_name: 'Kim Schlesinger',
+    fullName: 'Kim Schlesinger',
     title: 'Instructor',
-    number_of_dogs: 0
+    numberOfDogs: 0
   },
   {
     id: 8,
-    full_name: 'Peter Ostiguy',
+    fullName: 'Peter Ostiguy',
     title: 'Associate Instructor',
-    number_of_dogs: 0
+    numberOfDogs: 0
   },
   {
     id: 9,
-    full_name: 'Cass Torske',
+    fullName: 'Cass Torske',
     title: 'Resident',
-    number_of_dogs: 0
+    numberOfDogs: 0
   },
   {
     id: 10,
-    full_name: 'Matt Winzer',
+    fullName: 'Matt Winzer',
     title: 'Resident',
-    number_of_dogs: 0
+    numberOfDogs: 0
   },
   {
     id: 11,
-    full_name: 'Aaron Goodman',
+    fullName: 'Aaron Goodman',
     title: 'Resident',
-    number_of_dogs: 0
+    numberOfDogs: 0
   },
   {
     id: 12,
-    full_name: 'Michelle Bergquist',
+    fullName: 'Michelle Bergquist',
     title: 'Resident',
-    number_of_dogs: 0
+    numberOfDogs: 0
   }
 ]
 
